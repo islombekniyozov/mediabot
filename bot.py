@@ -2,7 +2,7 @@
 """
 MediaBot - Instagram, YouTube, TikTok video downloader
 Token: ...
-Admin ID: ...
+Admin ID: 1079953976
 """
 
 import asyncio
@@ -28,7 +28,7 @@ from telegram.constants import ParseMode
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 TOKEN = "BOT_TOKEN"
-ADMIN_ID = 
+ADMIN_ID = 1079953976
 DB_PATH = "mediabot.db"
 
 # ffmpeg to'liq yo'li (where ffmpeg buyrug'i natijasi)
